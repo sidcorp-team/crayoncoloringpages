@@ -1,6 +1,6 @@
 # Privacy Policy for Crayon Coloring Pages
 
-**Last Updated:** November 2, 2025
+**Last Updated:** November 10, 2025
 
 ## Introduction
 
