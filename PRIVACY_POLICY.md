@@ -156,7 +156,7 @@ For users in the European Economic Area (EEA):
 
 If you have questions about this Privacy Policy or our privacy practices:
 
-**Email:** support@dunkare.com
+**Email:** songhieu2516@gmail.com
 **Developer:** Dunkare
 **App Package:** com.dunkare.crayoncoloringpages
 
